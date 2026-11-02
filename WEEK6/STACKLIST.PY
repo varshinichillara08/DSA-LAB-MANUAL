@@ -1,5 +1,4 @@
-# Stack using Linked List
-# CSE25106
+
 
 
 # Node Class
